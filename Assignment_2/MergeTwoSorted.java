@@ -2,7 +2,7 @@ package Assignment_2;
 
 public class MergeTwoSorted {
     class Solution {
-        public void merge(int[] nums1, int m, int[] nums2, int n) {
+        public void merges(int[] nums1, int m, int[] nums2, int n) {
             int[] res = new int[m + n];
             int i = 0;
             int j = 0;
